@@ -11,5 +11,5 @@ To present the findings effectively, I created dynamic dashboards using Excel's 
 
 While this project is a demonstration, the techniques and insights derived from it can be invaluable for real businesses looking to make data-driven decisions. Feel free to explore the dashboard and adapt it to your own data or use it as a foundation for further analysis.
 
-I have included a PDF file with a step by step and the actual dataset I used. 
+I have included a PDF file with a step by step and the excel sheet that includes the raw dataset, the pivot table and the dashboard I created. 
 
